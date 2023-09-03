@@ -6,6 +6,7 @@ const expenses = [
     { category: 'MOMO', amount: 40 },
     { category: 'SNACKS', amount: 60 },
     { category: 'RefreshEnh.', amount: 80 },
+    { category: 'Travel.', amount: 90 },
 
 ];
 
